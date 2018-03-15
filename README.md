@@ -30,6 +30,18 @@ You can do this on your own project without needing to clone this repo as well. 
     height : 100vh;
 }
 ```
-* You are good to go! To understand how to scaffold the html and initialize the js, you can check out my example.
+* That's it. You are good to go! To understand how to scaffold the html and initialize the js, you can check out my example.
 
-#Cheers! :beers:
+#Follow Me! 
+
+##Avijit Sarkar
+
+[Web](http://avijitsarkar.com)
+[Twitter](https://twitter.com/theavijitsarkar)
+[GPlus](https://plus.google.com/u/1/115460828188120337851)
+[Facebook](https://www.facebook.com/theavijitsarkar)
+[LinkedIn](https://www.linkedin.com/in/avijit-sarkar-94436345/)
+[Insta](https://www.instagram.com/theavijitsarkar/)
+[Medium](https://medium.com/@theavijitsarkar)
+
+:beers: :beers:
