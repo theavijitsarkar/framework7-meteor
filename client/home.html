@@ -1,0 +1,44 @@
+<template name="home">
+
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <!-- Your app title -->
+    <title>Application Title</title>
+
+  </head>
+
+  <body>
+
+    <div id="app">
+      <!-- Statusbar overlay -->
+      <div class="statusbar"></div>
+
+      <!-- Your main view, should have "view-main" class -->
+      <div class="view view-main">
+        <!-- Initial Page, "data-name" contains page name -->
+        <div class="navbar">
+          <div class="navbar-inner">
+            <div class="title">Awesome App</div>
+          </div>
+        </div>
+
+        <!-- Toolbar -->
+        <div class="toolbar toolbar-bottom-md">
+          <div class="toolbar-inner">
+            <!-- Toolbar links -->
+            <a href="/" class="link external">Page 1</a>
+            <a href="/page2" class="link external">PAge 2</a>
+          </div>
+        </div>
+        {{#momentum plugin='flow-router'}} {{> Template.dynamic template=main}} {{/momentum}}
+      </div>
+    </div>
+
+  </body>
+
+</template>
