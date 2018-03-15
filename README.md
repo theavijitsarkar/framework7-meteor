@@ -1,4 +1,4 @@
-#Framework7 + Meteor
+# Framework7 + Meteor
 Simple integration of Framework7 v2 on Meteor
 
 ## Getting Started
@@ -32,9 +32,9 @@ You can do this on your own project without needing to clone this repo as well. 
 ```
 * That's it. You are good to go! To understand how to scaffold the html and initialize the js, you can check out my example.
 
-#Follow Me! 
+## Follow Me! 
 
-##Avijit Sarkar
+### Avijit Sarkar
 
 [Web](http://avijitsarkar.com)
 [Twitter](https://twitter.com/theavijitsarkar)
